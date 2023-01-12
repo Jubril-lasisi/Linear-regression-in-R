@@ -1,0 +1,23 @@
+---
+title: "predicting medical expenses using linear regression"
+author: "Jubril"
+date: "7/25/2022"
+output: html_document
+---
+
+
+`
+```{r}
+getwd()
+```
+```{r}
+library(readr)
+insurance <- read.csv("insurance.csv",stringsAsFactors = TRUE)
+head(insurance)
+```
+
+
+```{r}
+
+```
+
